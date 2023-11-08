@@ -4,5 +4,5 @@ jobs:
   echo:
     runs-on: ubuntu-latest
     steps: 
-      - run: ehco 'hi~'
+      - run: echo 'hi~'
       
